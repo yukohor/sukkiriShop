@@ -1,5 +1,7 @@
 package model;
 
+
+//ログイン情報を表すentity
 public class Login {
 	private String userId;
 	private String pass;
